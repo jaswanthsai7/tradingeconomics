@@ -8,7 +8,7 @@ const navItems = [
   { label: 'Home', href: '/' },
   { label: 'Compare Countries', href: '/compare' },
   { label: 'Search', href: '/search' },
-  { label: 'Visualize Indicators', href: '/visualindicators' },
+  { label: 'Visualize Indicators', href: '/visualize' },
 ];
 
 export default function Navbar() {
